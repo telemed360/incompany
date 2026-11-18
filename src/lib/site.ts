@@ -75,6 +75,7 @@ export const navLinks = [
 export const heroHighlights = [
   "Médico online em poucos minutos",
   "Crédito mensal para medicamentos",
+  "30% de desconto em exames",
   "Atendimento 24h, todos os dias",
   "+30 especialidades médicas",
   "Regulamentado pelo Conselho Federal de Medicina",
@@ -168,6 +169,7 @@ export const planFeatures = [
   "Pronto atendimento 24h",
   "Mais de 30 especialidades médicas",
   "Crédito aceito em +25 mil farmácias",
+  "30% de desconto em exames",
   "Sem carência e sem fidelidade",
 ];
 
@@ -288,6 +290,10 @@ export const faq = [
   {
     q: "O médico pode emitir receita e atestado?",
     a: "Sim. Receitas, pedidos de exame e atestados são emitidos com assinatura digital certificada (ICP-Brasil) e têm validade em todo o território nacional.",
+  },
+  {
+    q: "Tenho desconto em exames?",
+    a: "Sim. Assinantes InCompany têm 30% de desconto em exames.",
   },
   {
     q: "Preciso instalar algum aplicativo?",
