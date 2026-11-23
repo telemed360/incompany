@@ -7,9 +7,9 @@
 export const site = {
   name: "InCompany",
   shortName: "InCompany",
-  /** ⚠️ CONFIRMAR: domínio onde esta landing page vai ficar (incompany.med.br é o site institucional atual). */
-  domain: "incompany.med.br",
-  url: "https://incompany.med.br",
+  /** Domínio da landing page (configurado na Vercel; o domínio raiz redireciona para o www). */
+  domain: "www.incompanytelemedicina.com.br",
+  url: "https://www.incompanytelemedicina.com.br",
 
   /* Campos vazios ficam escondidos no site até serem preenchidos. */
 
