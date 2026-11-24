@@ -142,9 +142,9 @@ export const planGroups: PlanGroup[] = [
     who: "Titular + cônjuge",
     coverage: "Consultas ilimitadas para titular + cônjuge",
     tiers: [
-      { code: "A04", level: 1, price: "79,90", credit: "240,00", checkoutUrl: "https://clinica.incompanytelemedicina.com.br/checkout/25749455-4c79-435c-a2ea-2172b7d0f98d/" },
-      { code: "A05", level: 2, price: "89,90", credit: "500,00", checkoutUrl: "https://clinica.incompanytelemedicina.com.br/checkout/a1afbf1b-1b17-4822-b196-d4e5b277a993/" },
-      { code: "A06", level: 3, price: "99,90", credit: "800,00", checkoutUrl: "https://clinica.incompanytelemedicina.com.br/checkout/8b030798-e4fa-4ebc-b6d2-81a9366aef7a/" },
+      { code: "A04", level: 1, price: "69,90", credit: "240,00", checkoutUrl: "https://clinica.incompanytelemedicina.com.br/checkout/25749455-4c79-435c-a2ea-2172b7d0f98d/" },
+      { code: "A05", level: 2, price: "79,90", credit: "500,00", checkoutUrl: "https://clinica.incompanytelemedicina.com.br/checkout/a1afbf1b-1b17-4822-b196-d4e5b277a993/" },
+      { code: "A06", level: 3, price: "89,90", credit: "800,00", checkoutUrl: "https://clinica.incompanytelemedicina.com.br/checkout/8b030798-e4fa-4ebc-b6d2-81a9366aef7a/" },
     ],
   },
   {
@@ -153,9 +153,9 @@ export const planGroups: PlanGroup[] = [
     who: "Titular + 3 dependentes",
     coverage: "Consultas ilimitadas para titular + 3 dependentes",
     tiers: [
-      { code: "A07", level: 1, price: "129,90", credit: "480,00", checkoutUrl: "https://clinica.incompanytelemedicina.com.br/checkout/41b07a34-374f-472b-9245-2334ecf474c2/" },
-      { code: "A08", level: 2, price: "159,90", credit: "1.000,00", checkoutUrl: "https://clinica.incompanytelemedicina.com.br/checkout/ae0315e3-0720-491a-9366-4ed6f0c1ab86/" },
-      { code: "A09", level: 3, price: "169,90", credit: "1.600,00", checkoutUrl: "https://clinica.incompanytelemedicina.com.br/checkout/e45b758d-f5fe-4380-8d5e-0237a4558476/" },
+      { code: "A07", level: 1, price: "89,90", credit: "480,00", checkoutUrl: "https://clinica.incompanytelemedicina.com.br/checkout/41b07a34-374f-472b-9245-2334ecf474c2/" },
+      { code: "A08", level: 2, price: "99,90", credit: "1.000,00", checkoutUrl: "https://clinica.incompanytelemedicina.com.br/checkout/ae0315e3-0720-491a-9366-4ed6f0c1ab86/" },
+      { code: "A09", level: 3, price: "109,90", credit: "1.600,00", checkoutUrl: "https://clinica.incompanytelemedicina.com.br/checkout/e45b758d-f5fe-4380-8d5e-0237a4558476/" },
     ],
   },
 ];
