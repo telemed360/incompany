@@ -15,13 +15,9 @@ export const site = {
 
   email: "contato@incompany.med.br",
 
-  /**
-   * WhatsApp de atendimento. Formato internacional, só dígitos.
-   * ⚠️ CONFIRMAR: o site da InCompany mostra (22) 98162-3005 como telefone/WhatsApp,
-   * mas o botão de WhatsApp da seção de contato de lá aponta para (47) 99938-5327.
-   */
-  whatsapp: "5522981623005",
-  whatsappLabel: "(22) 98162-3005",
+  /** WhatsApp de atendimento. Formato internacional, só dígitos. */
+  whatsapp: "5522981553667",
+  whatsappLabel: "(22) 98155-3667",
 
   /** ⚠️ PENDENTE: endereço do consultório virtual (plataforma de teleconsulta). */
   clinicUrl: "",
